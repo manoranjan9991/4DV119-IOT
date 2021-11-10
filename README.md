@@ -36,5 +36,5 @@ Table 1. List of materials in doing this project
 |  LoRa anteena 	        |  Kjell & company 	  |  100 	|  SEK 	| 824-960 Mhz (GSM, LoRa etc), 1710-2200 MHz GSM. 	                |
 
 Further the design of the project is shown below in Figure 1 with the details of materials.
-![figure1](https://github.com//manoranjan9991/4DV119-IOT/tree/main/NewFolder/fig1.png) 
+![figure1](https://raw.githubusercontent.com/manoranjan9991/4DV119-IOT/main/NewFolder/fig1.png) 
 Figure 1. The materials used in designing this project.

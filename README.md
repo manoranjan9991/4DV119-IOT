@@ -1,5 +1,5 @@
 # State change detections using the accelerometers with inbuilt filters at IOT platform
-Manoranjan Kumar (makuaa@lnu.se),
+Manoranjan Kumar (makuaa),
 PhD student
 
 In this IOT (Internet of things) course I decided to study its concept hence performing a small project in the frame of its end-to-end implementations. I choose to use accelerometers hence programming in microcontroller to detect the acceleration changes using filters to avoid noise detections or smoothing of dataset. Further I also like to visualize those changes to the IOT platforms. I am hoping this should not take more than 8 weeks of time for such investigations and implementations.

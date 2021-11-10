@@ -37,11 +37,15 @@ Table 1. List of materials in doing this project
 
 Further the design of the project is shown below in Figure 1 with the details of materials.
 ![figure1](https://raw.githubusercontent.com/manoranjan9991/4DV119-IOT/main/NewFolder/fig1.png) 
-        Figure 1. The materials used in designing this project.
+      Figure 1. The materials used in designing this project.
 # 3.	Environmental setup
 
 To setup the lopy4.0 the software for e.g. node.js and Atom [1] are installed into the windows environments. Once these programs were installed the lopy4.0 is detected by the atom who gave the specification of the lopy4.0 as shown below Figure 2 .
 
 ![figure2](https://raw.githubusercontent.com/manoranjan9991/4DV119-IOT/main/NewFolder/fig2.png) 
 
-        Figure 2. The Lopy4.0 configurations into Atom.
+     Figure 2. The Lopy4.0 configurations into Atom.
+It was not needed to flash the latest firmware but still steps are taken to reflash the latest firmware. The flash has been performed by installing ParticleCLISetup.exe files using the instruction from [2]. Once the lopy4.0 is configured to the system further it is registered to the pybytes [3] for setting up the wi-Fi connections and LoRa for data transfer. This is done under my device sections to the pybytes GUI as shown below in Figure 3.
+
+![figure3](https://raw.githubusercontent.com/manoranjan9991/4DV119-IOT/main/NewFolder/fig3.png)
+Figure 3. The registration of pycom and setting up the GUI.
